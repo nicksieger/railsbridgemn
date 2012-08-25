@@ -20,8 +20,10 @@ Workshop #2
 #### Rails
 
 - [Rails for Zombies](http://railsforzombies.com/)
+- [Ruby on Rails Tutorial by Michael Hartl](http://ruby.railstutorial.org/)
 
 #### Git
+
 - http://www.git-scm.com/ -- Git reference
 - http://gitimmersion.com/ -- Git tutorial
 
