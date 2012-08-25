@@ -27,7 +27,10 @@ Workshop #2
 - http://www.git-scm.com/ -- Git reference
 - http://gitimmersion.com/ -- Git tutorial
 
+### Twitter Bootstrap
 
+- [Twitter Bootstrap CSS framework](http://twitter.github.com/bootstrap/)
+- [Twitter Bootstrap for Rails](http://railsapps.github.com/twitter-bootstrap-rails.html)
 
 ### Vocabulary
 
